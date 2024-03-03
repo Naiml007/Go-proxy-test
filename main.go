@@ -29,7 +29,7 @@ func main() {
 	})
 
 	// Specify the port to listen on
-	port := 8080
+	port := 8000
 	fmt.Printf("Proxy server is running on port %d...\n", port)
 
 	// Start Gin server
